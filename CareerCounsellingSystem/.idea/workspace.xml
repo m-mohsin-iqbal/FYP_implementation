@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="196c5cda-7c15-4f92-be7b-85040c51d118" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CCS/static/CCS/img/team/waqar.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CCS/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/CCS/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CCS/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/CCS/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CCS/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/CCS/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CCS/static/CCS/img/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/CCS/static/CCS/img/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CCS/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/CCS/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/CCS/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/CCS/Index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/CCS/contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/CCS/form.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/CCS/form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/CCS/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/CCS/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/CCS/team.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/CCS/team.html" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1X7MApoHMFyRqR1iIOa6LXyMgBW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/CCS/static/CCS/img" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\FYP\CareerCounsellingSystem\CCS" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\FYP\Frontend_FYP\CareerCounsellingSystem\CCS\static\CCS\img" />
+      <recent name="E:\FYP\Frontend_FYP\CareerCounsellingSystem\CCS\static\CCS\img\team" />
+      <recent name="E:\FYP\CareerCounsellingSystem\CCS\static\CCS\img" />
+      <recent name="E:\FYP\CareerCounsellingSystem\CCS\static\CCS" />
+      <recent name="E:\FYP\CareerCounsellingSystem\CareerCounsellingSystem\static\CareerCounsellingSystem" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="CareerCounsellingSystem" type="Python.DjangoServer" factoryName="Django server">
+      <module name="CareerCounsellingSystem" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="CareerCounsellingSystem.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="196c5cda-7c15-4f92-be7b-85040c51d118" name="Default Changelist" comment="" />
+      <created>1580392538563</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580392538563</updated>
+      <workItem from="1580392541486" duration="1621000" />
+      <workItem from="1580394327950" duration="4576000" />
+      <workItem from="1580399258888" duration="793000" />
+      <workItem from="1580405798087" duration="11929000" />
+      <workItem from="1580465567487" duration="8224000" />
+      <workItem from="1580478148944" duration="18000" />
+      <workItem from="1580555133713" duration="865000" />
+      <workItem from="1580568365452" duration="7195000" />
+      <workItem from="1580640850390" duration="569000" />
+      <workItem from="1580641474104" duration="817000" />
+      <workItem from="1580642381568" duration="3336000" />
+      <workItem from="1580649778463" duration="3453000" />
+      <workItem from="1580710863467" duration="329000" />
+      <workItem from="1581422896344" duration="538000" />
+      <workItem from="1581518099601" duration="97000" />
+      <workItem from="1581681384391" duration="5000" />
+      <workItem from="1581871003089" duration="4633000" />
+      <workItem from="1581956151565" duration="5024000" />
+      <workItem from="1581962230182" duration="1032000" />
+      <workItem from="1582038333407" duration="3987000" />
+      <workItem from="1582043257334" duration="3143000" />
+      <workItem from="1582601578725" duration="2054000" />
+      <workItem from="1582610566957" duration="1822000" />
+      <workItem from="1582644951008" duration="663000" />
+      <workItem from="1582825684610" duration="14000" />
+      <workItem from="1582826031486" duration="9415000" />
+      <workItem from="1582883914319" duration="3647000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
